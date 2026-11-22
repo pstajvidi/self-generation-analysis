@@ -1,0 +1,6 @@
+# Neighborhood Poverty and Proximity to Potential Self-Generation Capacity in the United States
+Primary research question: In 2023, did census tracts with higher poverty rates have more operating fossil-fuel capacity nearby at potential self-generation facilities, after accounting for tract population and differences across counties?
+
+Public health question: What percentage of residents living below the poverty threshold lived in tracts classified as near a qualifying facility, compared with residents living at or above the threshold?
+
+I hypothesize that higher-poverty tracts will have greater total qualifying capacity nearby. This pattern could arise because these tracts are more likely to have any qualifying facility nearby, because the facilities near them have greater capacity, or both. The null hypothesis is that adjusted expected nearby capacity does not vary with tract poverty. I will report the estimated difference in nearby megawatts (MW) associated with a 10-percentage-point difference in poverty, such as a comparison between tracts with poverty rates of 10% and 20%.
