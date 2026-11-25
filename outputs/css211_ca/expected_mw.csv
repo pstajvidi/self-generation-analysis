@@ -1,0 +1,5 @@
+target,poverty_pct,tracts,expected_mw
+All eligible tracts,10,9053,4.855210063938635
+Positive-support counties,10,7375,5.9491667061753395
+All eligible tracts,20,9053,5.64100447797653
+Positive-support counties,20,7375,6.911736275550989
